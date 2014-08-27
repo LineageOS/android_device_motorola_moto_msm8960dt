@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_4d35cf44",
+        "filename": "config/snd_soc_msm_2x",
+        "patchSetId": 1
+      },
+      "lineNbr": 541,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2014-08-27T09:48:18Z",
+      "side": 1,
+      "message": "This can go",
+      "revId": "1cbd341659798434ea486e790f6ab25d7b557a34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_2d3a1337",
+        "filename": "config/snd_soc_msm_2x",
+        "patchSetId": 1
+      },
+      "lineNbr": 556,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2014-08-27T09:48:18Z",
+      "side": 1,
+      "message": "This can go",
+      "revId": "1cbd341659798434ea486e790f6ab25d7b557a34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
